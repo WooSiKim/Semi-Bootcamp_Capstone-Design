@@ -22,7 +22,7 @@ Unity로 만든 CMP 시뮬레이터에서 전송하는 텔레메트리(JSON)를 
 
 - Cmp.Viewer.Win/ : Collector의 /live/ws WebSocket을 구독해 실시간 그래프 표시
 
-##스크린샷
+## 스크린샷
 
 ![Viewer Screenshot](docs/screenshot.png)
 
