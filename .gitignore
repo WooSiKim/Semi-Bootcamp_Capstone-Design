@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific
+*.user
+*.suo
+*.userprefs
+
+# 기타 로그/잡파일
+*.log
+*.tmp
+
+# 기타
+*.exe
+*.dll
